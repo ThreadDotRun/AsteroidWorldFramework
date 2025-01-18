@@ -1,4 +1,4 @@
-# Space Exploration Game
+# AsteroidWorldFramework - Space Exploration Game
 
 A 3D space exploration game built with Panda3D where players can navigate through a vast universe filled with celestial bodies and mysterious portals.
 
