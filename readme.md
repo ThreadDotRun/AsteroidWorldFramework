@@ -20,6 +20,9 @@ A 3D space exploration game built with Panda3D where players can navigate throug
 - Python 3.x
 - Panda3D
 - NumPy
+- Blender and Blenderrun - https://github.com/blender/blender
+
+![Demo PNG](./FileStructure.png)
 
 ## Installation
 
