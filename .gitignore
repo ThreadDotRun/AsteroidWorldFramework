@@ -1,0 +1,5 @@
+# Ignore files and folders containing 'blender' (case-insensitive)
+*[bB][lL][eE][nN][dD][eE][rR]*
+*Archived*
+*frames*
+*venv*
