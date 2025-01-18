@@ -33,8 +33,8 @@ pip install panda3d numpy
 
 2. Clone the repository:
 ```bash
-git clone [repository-url]
-cd [repository-name]
+git clone https://github.com/ThreadDotRun/AsteroidWorldFramework
+cd AsteroidWorldFramework
 ```
 
 3. Ensure you have the following directory structure:
