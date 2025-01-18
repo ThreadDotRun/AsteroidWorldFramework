@@ -109,9 +109,10 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## License
 
-[Add your license information here]
+[Apache 2.0]
 
 ## Credits
 
 - Built with [Panda3D](https://www.panda3d.org/)
-- Space models and textures [Add credits for assets used]
+- Space models and textures [All models are open source]
+- Caffeine and nicotine FTW as usual
